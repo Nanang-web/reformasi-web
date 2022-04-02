@@ -1,9 +1,10 @@
 RESOLUSI 2022
 -membangun toko di berbagai marketplace
+* shopee
 * tokopedia
 * lazada
   ^ sistem ulasan
 -membuat chanel youtube
 -menjadi enterpreuner
+* eksportir
 -memiliki bobot tubuh 70 kg
--menjadi eksportir
